@@ -10,7 +10,7 @@ const ServicesSection = () => {
   return (
     <section className="py-12 bg-gray-50">
         
-      <div className="container mx-auto px-4 space-y-12">
+      <div className="container mx-auto px-4 py-4 space-y-4">
         {servicesData.map((service, index) => (
           <ServicesCard
             id={service.id}
