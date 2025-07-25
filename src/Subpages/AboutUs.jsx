@@ -1,3 +1,6 @@
+
+
+
 import React from "react";
 import ourTeam from "../assets/images/our_team.jpeg";
 
